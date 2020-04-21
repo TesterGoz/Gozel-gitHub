@@ -1,2 +1,3 @@
 # Gozel-gitHub
-This is dedicated for learning
+
+This is dedicated for learning, it is training.
